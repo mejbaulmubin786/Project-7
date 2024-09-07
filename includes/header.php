@@ -61,7 +61,7 @@ $video = new Video($con, null, $userLoggedInObj);
                         <div class="top-meta-data d-flex align-items-center justify-content-end">
                             <!-- Top Social Info -->
                             <div class="top-social-info">
-                                <a href="https://github.com/nabilfarhann"><i class="fa fa-github-alt"></i>  MyGitHub</a>
+                                <a href="https://github.com/mejbaulmubin786/"><i class="fa fa-github-alt"></i>  MyGitHub</a>
                                 <a href="upload"><i class="fa fa-youtube-play"></i>  Upload</a>
                             </div>
                             <!-- Top Search Area -->
